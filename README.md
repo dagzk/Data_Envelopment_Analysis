@@ -1,4 +1,4 @@
-# Prescriptive Analaytics with Mathematical Programming
+# Prescriptive Analytics with Mathematical Programming
 Application of Data Envelopment Analysis on MATLAB (data from London Stock Exchange)
 
 OVERVIEW
