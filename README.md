@@ -1,4 +1,4 @@
-# Prescriptive Analaytics with Mathematical Programming (University of Edinburgh)
+# Prescriptive Analaytics with Mathematical Programming
 Application of Data Envelopment Analysis on MATLAB (data from London Stock Exchange)
 
 OVERVIEW
