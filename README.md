@@ -1,4 +1,4 @@
-# Data_Envelopment_Analysis
+# Prescriptive Analaytics with Mathematical Programming (University of Edinburgh)
 Application of Data Envelopment Analysis on MATLAB (data from London Stock Exchange)
 
 OVERVIEW
