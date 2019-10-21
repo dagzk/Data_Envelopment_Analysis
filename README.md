@@ -7,3 +7,5 @@ This was a group project on MATLAB that used data from the London Stock Exchange
 algorithm called Data Envelopment Analysis (DEA). Not all models are shown in the files due to privacy reasons.
 
 Use the file: "Notes_to_Run" to understand how to run the files.
+
+DEA was also used to benchmark countries using Socio-Economic variables for my dissertation thesis.
